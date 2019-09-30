@@ -4,15 +4,12 @@
 //
 //  Created by zhao on 2019/9/29.
 //  Copyright © 2019 zhao. All rights reserved.
-//
+//ceshi 提交记录：1.高级列表定制，带 xib 的
 
 import UIKit
 
 class ViewController: UIViewController,UITableViewDataSource,UITableViewDelegate {
     
-    
-    
- 
     
 
     @IBOutlet weak var mytable: UITableView!
